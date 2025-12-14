@@ -1,0 +1,13 @@
+{
+  "id": "prod20",
+  "groups": [
+    {
+      "name": "default",
+      "images": [
+        "01.webp",
+        "02.webp",
+        "03.webp"
+      ]
+    }
+  ]
+}
