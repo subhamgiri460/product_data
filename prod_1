@@ -1,0 +1,64 @@
+{
+        "product_id": "PROD-10000",
+        "product_info": {
+            "name": "Modern Opal Pendant",
+            "status": "published",
+            "description": "<p>This is a <strong>sparkling</strong> piece featuring a genuine Opal. Handcrafted with care using Oxidized Silver.</p>",
+            "category": "Neckwear",
+            "collections": [
+                "Party Wear"
+            ],
+            "general_size_info": "Standard Sizing",
+            "subcategory": "Pendants",
+            "created_timestamp": 1672531200
+        },
+        "details": [
+            {
+                "label": "Collection",
+                "value": "Party Wear"
+            },
+            {
+                "label": "Care",
+                "value": "Keep away from moisture"
+            },
+            {
+                "label": "Sizing",
+                "value": "Standard Sizing"
+            }
+        ],
+        "variant_setup": {
+            "has_variants": false,
+            "option_definitions": []
+        },
+        "media_groups": {
+            "default": {
+                "images": [
+                    "https://picsum.photos/600/600?random=717",
+                    "https://picsum.photos/600/600?random=718"
+                ],
+                "instagram": []
+            }
+        },
+        "metals": [
+            {
+                "value": "Oxidized Silver",
+                "base_price": 35676,
+                "compare_at_price": 44119,
+                "media_key": "default",
+                "sku": "SKU-4962-OXI",
+                "weight": 11
+            }
+        ],
+        "sizes": [
+            {
+                "label": "Standard",
+                "mm": 0,
+                "price_delta": 0
+            }
+        ],
+        "pricing_rule": {
+            "formula": "final_price = metal.base_price + size.price_delta",
+            "compare_at_formula": "final_compare_at = metal.compare_at_price + size.price_delta"
+        },
+        "size_guide_html": ""
+}
