@@ -3,5 +3,10 @@
     "id": "neclace",
     "name": "neclace",
     "subcategories": []
+  },
+  {
+    "id": "hello",
+    "name": "hello",
+    "subcategories": []
   }
 ]
