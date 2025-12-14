@@ -3,23 +3,5 @@
     "id": "neclace",
     "name": "neclace",
     "subcategories": []
-  },
-  {
-    "id": "hello",
-    "name": "hello",
-    "subcategories": [
-      {
-        "id": "demo1",
-        "name": "demo1"
-      },
-      {
-        "id": "demo2",
-        "name": "demo2"
-      },
-      {
-        "id": "demo3",
-        "name": "demo3"
-      }
-    ]
   }
 ]
