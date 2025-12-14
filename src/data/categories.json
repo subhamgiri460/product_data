@@ -20,6 +20,23 @@
   {
     "id": "cat_0wj9ieknw",
     "name": "c2",
-    "subcategories": []
+    "subcategories": [
+      {
+        "id": "sub_tb5aotpej",
+        "name": "d1"
+      },
+      {
+        "id": "sub_ltrl58u4v",
+        "name": "d2"
+      },
+      {
+        "id": "sub_xc30iy99n",
+        "name": "d3"
+      },
+      {
+        "id": "sub_5d1wuqjn4",
+        "name": "s1"
+      }
+    ]
   }
 ]
