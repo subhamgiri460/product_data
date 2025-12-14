@@ -7,6 +7,19 @@
   {
     "id": "hello",
     "name": "hello",
-    "subcategories": []
+    "subcategories": [
+      {
+        "id": "demo1",
+        "name": "demo1"
+      },
+      {
+        "id": "demo2",
+        "name": "demo2"
+      },
+      {
+        "id": "demo3",
+        "name": "demo3"
+      }
+    ]
   }
 ]
