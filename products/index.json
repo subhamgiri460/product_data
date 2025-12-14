@@ -2,5 +2,9 @@
   {
     "id": "prod-001",
     "path": "prod-001/product.json"
+  },
+  {
+    "id": "prod20",
+    "path": "prod20/product.json"
   }
 ]
