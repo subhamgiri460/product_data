@@ -2,6 +2,19 @@
   {
     "id": "cat_37yvlx52x",
     "name": "c1",
-    "subcategories": []
+    "subcategories": [
+      {
+        "id": "sub_9326ll8hm",
+        "name": "s1"
+      },
+      {
+        "id": "sub_de9tmpz9q",
+        "name": "s2"
+      },
+      {
+        "id": "sub_m24iapw1v",
+        "name": "s3"
+      }
+    ]
   }
 ]
