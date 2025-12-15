@@ -1,0 +1,42 @@
+{
+  "product_id": "prod1765825895",
+  "product_info": {
+    "name": "p1",
+    "status": "draft",
+    "description": "hwllo",
+    "category": "c1",
+    "subcategory": "s2",
+    "collections": [
+      "hello"
+    ],
+    "general_size_info": "",
+    "price": "200",
+    "compare_at_price": "500"
+  },
+  "details": [],
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "metals": [
+    {
+      "value": "hel",
+      "base_price": 500,
+      "media_key": "group_1",
+      "sku": "p1-hel",
+      "weight": 0
+    }
+  ],
+  "sizes": [],
+  "media_groups": {
+    "group_1": {
+      "images": [
+        "https://cdn.jsdelivr.net/gh/subhamgiri460/product_data/products/prod1765825895/images/group_1/01.webp",
+        "https://cdn.jsdelivr.net/gh/subhamgiri460/product_data/products/prod1765825895/images/group_1/02.webp",
+        "https://cdn.jsdelivr.net/gh/subhamgiri460/product_data/products/prod1765825895/images/group_1/03.webp",
+        "https://cdn.jsdelivr.net/gh/subhamgiri460/product_data/products/prod1765825895/images/group_1/04.webp"
+      ],
+      "instagram": []
+    }
+  }
+}
