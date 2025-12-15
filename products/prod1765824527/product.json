@@ -1,0 +1,33 @@
+{
+  "product_id": "prod1765824527",
+  "product_info": {
+    "name": "p1",
+    "status": "draft",
+    "description": "<p>d1</p>",
+    "category": "c1",
+    "subcategory": "s2",
+    "collections": [
+      "Summer Sale",
+      "hello"
+    ],
+    "general_size_info": "",
+    "price": "200",
+    "compare_at_price": "40"
+  },
+  "details": [],
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "metals": [
+    {
+      "value": "New Metal",
+      "base_price": 0,
+      "media_key": "default",
+      "sku": "",
+      "weight": 0
+    }
+  ],
+  "sizes": [],
+  "media_groups": {}
+}
