@@ -10,22 +10,6 @@
       "path": "prod20/product.json"
     },
     {
-      "product_id": "prod1765824527",
-      "name": "p1",
-      "status": "draft",
-      "category": "c1",
-      "subcategory": "s2",
-      "collections": [
-        "Summer Sale",
-        "hello"
-      ],
-      "has_variants": true,
-      "base_price": 200,
-      "compare_at_price": 40,
-      "thumbnail": "",
-      "path": "products/prod1765824527/product.json"
-    },
-    {
       "product_id": "prod1765825895",
       "name": "p1",
       "status": "draft",
@@ -39,7 +23,23 @@
       "compare_at_price": 500,
       "thumbnail": "https://cdn.jsdelivr.net/gh/subhamgiri460/product_data/products/prod1765825895/images/group_1/01.webp",
       "path": "products/prod1765825895/product.json"
+    },
+    {
+      "product_id": "prod1765824527",
+      "name": "p1",
+      "status": "published",
+      "category": "c1",
+      "subcategory": "s2",
+      "collections": [
+        "Summer Sale",
+        "hello"
+      ],
+      "has_variants": true,
+      "base_price": 200,
+      "compare_at_price": 40,
+      "thumbnail": "",
+      "path": "products/prod1765824527/product.json"
     }
   ],
-  "generated_at": "2025-12-15T19:21:14.350Z"
+  "generated_at": "2025-12-15T19:45:36.218Z"
 }
