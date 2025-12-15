@@ -1,10 +1,30 @@
-[
-  {
-    "id": "prod-001",
-    "path": "prod-001/product.json"
-  },
-  {
-    "id": "prod20",
-    "path": "prod20/product.json"
-  }
-]
+{
+  "version": 1,
+  "products": [
+    {
+      "id": "prod-001",
+      "path": "prod-001/product.json"
+    },
+    {
+      "id": "prod20",
+      "path": "prod20/product.json"
+    },
+    {
+      "product_id": "prod1765824527",
+      "name": "p1",
+      "status": "draft",
+      "category": "c1",
+      "subcategory": "s2",
+      "collections": [
+        "Summer Sale",
+        "hello"
+      ],
+      "has_variants": true,
+      "base_price": 200,
+      "compare_at_price": 40,
+      "thumbnail": "",
+      "path": "products/prod1765824527/product.json"
+    }
+  ],
+  "generated_at": "2025-12-15T18:55:27.827Z"
+}
