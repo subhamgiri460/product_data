@@ -1,0 +1,60 @@
+{
+  "product_id": "prod1765901074",
+  "product_info": {
+    "name": "product ",
+    "status": "draft",
+    "description": "dgds\n",
+    "category": "c2",
+    "subcategory": "d3",
+    "collections": [
+      "Summer Sale"
+    ],
+    "base_price": 200,
+    "compare_at_price": 556,
+    "general_size_info": ""
+  },
+  "details": [
+    {
+      "label": "hello",
+      "value": "hiwo"
+    }
+  ],
+  "variant_setup": {
+    "has_variants": true,
+    "option_definitions": [
+      {
+        "name": "Default",
+        "source": "default",
+        "ui": "hidden",
+        "requires_media": true,
+        "values": [
+          "New Default",
+          "New Default"
+        ]
+      }
+    ],
+    "default": [
+      {
+        "value": "New Default",
+        "price_delta": 0,
+        "compare_delta": 0,
+        "media_key": "default"
+      },
+      {
+        "value": "New Default",
+        "price_delta": 0,
+        "compare_delta": 0,
+        "media_key": "default"
+      }
+    ]
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        "https://cdn.jsdelivr.net/gh/subhamgiri460/product_data/products/prod1765901074/images/default/01.webp",
+        "https://cdn.jsdelivr.net/gh/subhamgiri460/product_data/products/prod1765901074/images/default/02.webp"
+      ],
+      "instagram": []
+    }
+  }
+}
