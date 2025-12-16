@@ -39,7 +39,23 @@
       "compare_at_price": 40,
       "thumbnail": "",
       "path": "products/prod1765824527/product.json"
+    },
+    {
+      "product_id": "prod1765901074",
+      "name": "product ",
+      "status": "draft",
+      "category": "c2",
+      "subcategory": "d3",
+      "collections": [
+        "Summer Sale"
+      ],
+      "has_variants": true,
+      "price": 200,
+      "compare_at_price": 556,
+      "base_price": 200,
+      "thumbnail": "https://cdn.jsdelivr.net/gh/subhamgiri460/product_data/products/prod1765901074/images/default/01.webp",
+      "path": "products/prod1765901074/product.json"
     }
   ],
-  "generated_at": "2025-12-15T19:45:36.218Z"
+  "generated_at": "2025-12-16T17:05:02.464Z"
 }
