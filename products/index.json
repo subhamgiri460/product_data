@@ -42,7 +42,7 @@
     },
     {
       "product_id": "prod1765901074",
-      "name": "product ",
+      "name": "huiuyu",
       "status": "draft",
       "category": "c2",
       "subcategory": "d3",
@@ -57,5 +57,5 @@
       "path": "products/prod1765901074/product.json"
     }
   ],
-  "generated_at": "2025-12-16T17:09:32.394Z"
+  "generated_at": "2025-12-16T17:10:09.505Z"
 }
