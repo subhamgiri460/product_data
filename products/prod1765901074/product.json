@@ -52,7 +52,8 @@
     "default": {
       "images": [
         "https://cdn.jsdelivr.net/gh/subhamgiri460/product_data/products/prod1765901074/images/default/01.webp",
-        "https://cdn.jsdelivr.net/gh/subhamgiri460/product_data/products/prod1765901074/images/default/02.webp"
+        "https://cdn.jsdelivr.net/gh/subhamgiri460/product_data/products/prod1765901074/images/default/02.webp",
+        "https://cdn.jsdelivr.net/gh/subhamgiri460/product_data/products/prod1765901074/images/default/03.webp"
       ],
       "instagram": []
     }
