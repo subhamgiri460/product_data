@@ -46,9 +46,7 @@
       "status": "draft",
       "category": "c2",
       "subcategory": "d3",
-      "collections": [
-        "Summer Sale"
-      ],
+      "collections": [],
       "has_variants": true,
       "price": 200,
       "compare_at_price": 556,
@@ -57,5 +55,5 @@
       "path": "products/prod1765901074/product.json"
     }
   ],
-  "generated_at": "2025-12-17T07:06:33.383Z"
+  "generated_at": "2025-12-17T07:11:31.541Z"
 }
