@@ -31,7 +31,8 @@
       "category": "c1",
       "subcategory": "s2",
       "collections": [
-        "hello"
+        "hello",
+        "Summer Sale"
       ],
       "has_variants": true,
       "base_price": 200,
@@ -56,5 +57,5 @@
       "path": "products/prod1765901074/product.json"
     }
   ],
-  "generated_at": "2025-12-17T07:06:19.490Z"
+  "generated_at": "2025-12-17T07:06:33.383Z"
 }
