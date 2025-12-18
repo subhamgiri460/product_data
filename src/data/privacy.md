@@ -1,0 +1,3 @@
+# privacy
+
+New policy content.
