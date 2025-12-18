@@ -1,3 +1,0 @@
-# about
-
-New policy content.
