@@ -10,15 +10,17 @@
       "hello",
       "Summer Sale"
     ],
+    "base_price": 200,
+    "compare_at_price": 700,
     "general_size_info": "",
-    "price": 200,
-    "compare_at_price": "40"
+    "price": 200
   },
   "details": [],
   "variant_setup": {
     "has_variants": false,
     "option_definitions": []
   },
+  "media_groups": {},
   "metals": [
     {
       "value": "New Metal",
@@ -28,6 +30,5 @@
       "weight": 0
     }
   ],
-  "sizes": [],
-  "media_groups": {}
+  "sizes": []
 }
