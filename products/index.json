@@ -25,22 +25,6 @@
       "path": "products/prod1765825895/product.json"
     },
     {
-      "product_id": "prod1765824527",
-      "name": "p1",
-      "status": "published",
-      "category": "c1",
-      "subcategory": "s2",
-      "collections": [
-        "hello",
-        "Summer Sale"
-      ],
-      "has_variants": true,
-      "base_price": 200,
-      "compare_at_price": 40,
-      "thumbnail": "",
-      "path": "products/prod1765824527/product.json"
-    },
-    {
       "product_id": "prod1765901074",
       "name": "huiuyu",
       "status": "draft",
@@ -53,7 +37,24 @@
       "base_price": 200,
       "thumbnail": "https://cdn.jsdelivr.net/gh/subhamgiri460/product_data/products/prod1765901074/images/default/01.webp",
       "path": "products/prod1765901074/product.json"
+    },
+    {
+      "product_id": "prod1765824527",
+      "name": "p1",
+      "status": "published",
+      "category": "c1",
+      "subcategory": "s2",
+      "collections": [
+        "hello",
+        "Summer Sale"
+      ],
+      "has_variants": false,
+      "price": 200,
+      "compare_at_price": 700,
+      "base_price": 200,
+      "thumbnail": "",
+      "path": "products/prod1765824527/product.json"
     }
   ],
-  "generated_at": "2025-12-17T07:11:31.541Z"
+  "generated_at": "2025-12-22T10:16:47.084Z"
 }
